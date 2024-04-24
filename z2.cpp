@@ -1,3 +1,13 @@
+) Napisz funkcję do alokacji fragmentarycznej dynamicznej tablicy 2D typu int, tak aby na elemencie [-1][0] zapisać jej
+rozmiary. Liczba wierszy powinna być przechowana w dwóch najstarszych bajtach, al liczba kolumn w dwóch
+najmłodszych.
+2) Napisz 2 funkcje:
+- do zapisu tablicy z polecenia 1 do pliku w trybie binarnym,
+- do odczytu tablicy z polecenia 1 z pliku w trybie binarnym.
+W pliku należy też przechować wymiary tablicy.
+3) Podziel program na pliki, tak aby napisane wyżej funkcje znalazły się w oddzielnej jednostce translacji
+
+
 W jezyku c++:
 Napisz funkcję do alokacji fragmentarycznej dynamicznej tablicy 2D typu int, tak aby na elemencie [-1][0] zapisać jej
 rozmiary. Liczba wierszy powinna być przechowana w dwóch najstarszych bajtach, al liczba kolumn w dwóch
